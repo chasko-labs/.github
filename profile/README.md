@@ -32,6 +32,7 @@ core framework in [heraldstack-core](https://github.com/chasko-labs/heraldstack-
 ### agents + agentic workflows
 
 - [heraldstack-core](https://github.com/chasko-labs/heraldstack-core) — the multi-platform agent framework
+- [heraldstack](https://github.com/chasko-labs/heraldstack) — placeholder repo carrying harald's catchphrase *"science bless us everyone"* — the real framework lives in [heraldstack-core](https://github.com/chasko-labs/heraldstack-core)
 - [kiro-cli-custom-agent-kb-creator](https://github.com/chasko-labs/kiro-cli-custom-agent-kb-creator) — knowledge base creation with web crawling + semantic indexing
 - [kiro-cli-custom-agent-screenpal-video-transcription](https://github.com/chasko-labs/kiro-cli-custom-agent-screenpal-video-transcription) — video-to-document via kiro custom agent, mcp + knowledge base, no fees outside aws kiro credits
 - [goose-cli-video-transcription-recipe](https://github.com/chasko-labs/goose-cli-video-transcription-recipe) — whisper + moondream2 + ffmpeg containerized on amd gpu, triggered from mac mini over ssh
