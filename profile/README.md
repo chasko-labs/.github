@@ -42,6 +42,7 @@ core framework in [heraldstack-core](https://github.com/chasko-labs/heraldstack-
 - [jitsi-video-hosting](https://github.com/chasko-labs/jitsi-video-hosting) — on-demand jitsi meet on aws, scale-to-zero cost optimization
 - [mac-developer-environment-setup](https://github.com/chasko-labs/mac-developer-environment-setup) — developer environment for building aws-powered solutions on macos 15
 - [cognito-authentication](https://github.com/chasko-labs/cognito-authentication) — cognito + amplify auth patterns, following nader dabit's *full stack serverless*
+- [rgc3-cloudscape-design-system-website](https://github.com/chasko-labs/rgc3-cloudscape-design-system-website) — [clouddelnorte.org](https://clouddelnorte.org) user group website, built on the aws cloudscape design system
 
 ### rust + embeddings
 
@@ -51,6 +52,10 @@ core framework in [heraldstack-core](https://github.com/chasko-labs/heraldstack-
 
 - [marvel-snap-bytedance](https://github.com/chasko-labs/marvel-snap-bytedance) — marvel snap screenshot pipeline, bytedance models via goose cli, local google photos ingestion, game reconstruction
 - [bryan-chasko-com](https://github.com/chasko-labs/bryan-chasko-com) — personal site, hugo + s3 static hosting, custom theme hacked from papermod (3d now)
+
+### practice + learning
+
+- [LeetCodeRandoms](https://github.com/chasko-labs/LeetCodeRandoms) — leetcode practice sessions with heraldstack expert coder personas driving the learn-from-mistakes loop
 
 ## the bench
 
