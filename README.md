@@ -33,6 +33,7 @@ core framework in [heraldstack-core](https://github.com/chasko-labs/heraldstack-
 
 ### aws infrastructure
 
+- [aws-cloudformation-best-practices](https://github.com/chasko-labs/aws-cloudformation-best-practices) — authoring rules the cfn pre-deploy validators do not catch, distilled from the field (ec2 sg ascii, sso permission set region parameterization, ssm put-parameter tag-overwrite conflict)
 - [jitsi-video-hosting](https://github.com/chasko-labs/jitsi-video-hosting) — on-demand jitsi meet on aws, scale-to-zero cost optimization
 - [mac-developer-environment-setup](https://github.com/chasko-labs/mac-developer-environment-setup) — developer environment for building aws-powered solutions on macos 15
 - [cognito-authentication](https://github.com/chasko-labs/cognito-authentication) — cognito + amplify auth patterns, following nader dabit's *full stack serverless*
