@@ -9,15 +9,7 @@
 
 ## heraldstack — one framework, five cli runtimes
 
-the same agent personas port across commercial agent clis so no single vendor owns the stack
-
-| collective | cli runtime    | role                                                        |
-| ---------- | -------------- | ----------------------------------------------------------- |
-| shannon    | claude code    | primary — design, architecture, iac authoring              |
-| haunting   | kiro cli       | custom agents — kb creation, video-to-document pipelines    |
-| gander     | goose cli      | recipes — gpu inference jobs driven over ssh                |
-| ibeji      | gemini cli     | reserved slot                                               |
-| squad      | github copilot | reserved slot                                               |
+the same agent personas port across commercial agent clis
 
 core framework in [heraldstack-core](https://github.com/chasko-labs/heraldstack-core) — context-aware agent framework with memory, entity routing, narrative continuity
 
